@@ -51,7 +51,7 @@ export default function HomePage() {
         loop
       />
 
-      <div className="relative z-10 flex min-h-screen items-start justify-center p-4 md:p-6">
+      <div className="relative z-10 flex min-h-screen items-center justify-center p-4 md:p-6">
         <AnimatePresence mode="wait">
           <motion.div
             key={currentScreen}

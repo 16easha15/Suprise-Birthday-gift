@@ -24,7 +24,7 @@ export default function PhotosScreen({ onNext }) {
 
       <div className="text-center">
         <h2 className="text-2xl md:text-3xl font-semibold text-accent">
-          Our Sweet Pics
+          Our Sweet Memories
         </h2>
         <p className="text-sm text-accent/70 mt-1">
         </p>

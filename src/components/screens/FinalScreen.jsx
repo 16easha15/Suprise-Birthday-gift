@@ -27,7 +27,7 @@ export default function FinalScreen({ onReplay }) {
       </h1>
 
       <p className="text-foreground max-w-md">
-        Vaishnavi, this little surprise was made with all my heart.
+        Vaishnu, this little surprise was made with all my heart...
         May your life always be filled with smiles, warmth, and love.
       </p>
 
